@@ -1,1 +1,1 @@
-# iGEM-Model-Collection
+# Awesome-iGEM-Models
