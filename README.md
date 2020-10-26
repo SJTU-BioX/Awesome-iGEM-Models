@@ -71,7 +71,7 @@ List of outstanding models about CRISPR system and machine learning in the last 
 
   3. Eicosane Detection Kinetic Model
 
-  **Type: ** Kinetic Model
+  **Type:** Kinetic Model
 
   **Functions:**  
 
@@ -97,7 +97,7 @@ List of outstanding models about CRISPR system and machine learning in the last 
 
   **Functions:**  Find out the reaction rate of ASFAST under different virus D.A concentration and take this as a reference to set its detection limit。
 
-  **Evaluation:**More researches have to be done on the dissociation rate of trans activity to determine the exact rate of its reverse reaction.
+  **Evaluation:**  More researches have to be done on the dissociation rate of trans activity to determine the exact rate of its reverse reaction.
 
   
 
