@@ -11,13 +11,9 @@ List of outstanding models about CRISPR system and machine learning in the last 
 ![](CRISPR.jpg)
 
 + [2019 SJTU-BioX-Shanghai](https://2019.igem.org/Team:SJTU-BioX-Shanghai/Model)
-
   **Name:**  Target Recognition Model
-
   **Type:**  Kinetic Model
-
   **Functions:**  Find the numbers and locations of lure  sequences and give coresponding intructions to the project 
-
   **Evaluation:** The approximation works well for single mismatch situation. A computational solution for multi-mismatch situation is provided. 
   
   
