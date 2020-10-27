@@ -143,7 +143,7 @@ List of outstanding models about CRISPR system and machine learning in the last 
 
 + [2017 MIT](http://2017.igem.org/Team:MIT/Model)
 
-  **Name:**    SpliceMIT – Splice Modelling Intronic  Technology  
+  **Name:**  SpliceMIT – Splice Modelling Intronic  Technology  
 
   **Type:**  Non-parametric statistical method
 
