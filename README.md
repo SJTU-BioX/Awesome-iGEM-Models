@@ -13,11 +13,11 @@ List of outstanding models about CRISPR system and machine learning in the last 
 + [2019 SJTU-BioX-Shanghai](https://2019.igem.org/Team:SJTU-BioX-Shanghai/Model)
 
   **Name:**  Target Recognition Model
-  
+
   **Type:**  Kinetic Model
-  
+
   **Functions:**  Find the numbers and locations of lure  sequences and give coresponding intructions to the project 
-  
+
   **Evaluation:** The approximation works well for single mismatch situation. A computational solution for multi-mismatch situation is provided. 
   
   
@@ -170,4 +170,118 @@ List of outstanding models about CRISPR system and machine learning in the last 
   **Functions:**  Capture the dynamics of construct developed in the Wet Lab to further characterize its behaviour.
 
   **Evaluation:**  Adjusted R-squared=0,8238  p-value=9.741e-16.  
+
+
+
+### Machine Learning
+
+![](/Users/zhangyumeng/Desktop/wiki页面内容/collection/ML.png)
+
+
+
++ [2019 William and Mary](https://2019.igem.org/Team:William_and_Mary/Software)
+
+  **Name:**  Outreach Database
+
+  **Methods:**   Random Forest, Gradient Boosting, Neural  Networks, Ridge Regression, C-SVM with classifier chains
+
+  **Functions:**  Automatically label successful outreach events that happened in 2018 based on their descriptions.
+
+  **Evaluation:** The best models are using C-SVM with classifier chains. These models has an accuracy of 95.20% for labeling the "Project Tags", an accuracy of 93.25% for labeling the "Audiences", and an accuracy of 92.11% for labeling the "Goals".
+
+  
+
++ [2019 Calgary](  https://2019.igem.org/Team:Calgary/Model/EmulsionPrediction)
+
+  **Name:**  Emulsion Construction Prediction
+
+  **Methods:**  SVC, kNN, MLP
+
+  **Functions:**  Find an emulsion which allows for the maximum removal of chlorophyll from the oil by finding the variables of temperature and concentrations of oil, water, and surfactant.
+
+  **Evaluation:**  The phase diagram model generated with  the SVC algorithm produced the most physically accurate results.  
+
+  
+
++ [2019 NCTU Formosa](https://2019.igem.org/Team:NCTU_Formosa/Mutagenicity_Prediction)
+
+  **Name:**  Mutagenicity Prediction
+
+  **Methods:**  SVM
+
+  **Functions:**  Predict mutagenicity based on chemical substructures.
+
+  **Evaluation:**  They import the linear regression of the  result of Ames test to our model prediction. The result shows that the two  has a $R^2$ of 0.9699, which indicates their high relativeness.  
+
+  
+
++ [2019 Marburg](https://2019.igem.org/Team:Marburg/Model#growth_curve_model)
+
+  **Name:**  Growth Curve Model
+
+  **Methods:**  Polynomial Regression
+
+  **Functions:**  Predict the doubling time.
+
+  **Evaluation:**  The prediction quality of the model is poor. The degree of the polynomial is influencing the performance of the model, but there is no clear trend visible.
+
+  
+
++ [2019 SYSU-Medicine](https://2019.igem.org/Team:SYSU-Medicine/Future)
+
+  **Name:**  Future
+
+  **Methods:**  BP Neural Network
+
+  **Functions:**  Give a prediction of their method on human body, and provide a treatment model with higher precision.
+
+  **Evaluation:**  The total set AUC is approximately 0.7.  
+
+  
+
++ [2019 SASTRA Thanjavur](https://2019.igem.org/Team:SASTRA_Thanjavur/Software)
+
+  **Name:**  Efficacy of Toehold Switches Prediction
+
+  **Methods:**  Multivariate Regression
+
+  **Functions:**  Predict the efficacy of toehold switches according to their dynamic range.
+
+  **Evaluation:**  The 10-fold cross validated model metrics output an adj. $R^2$ value = 0.59. Their model outperforms the only other existing multivariate model proposed by CUHK’s iGEM 2017, whose reported $R^2$ value was 0.22. 
+
+  
+
++ [2019 CMUQ](https://2019.igem.org/Team:CMUQ/Software)
+
+  **Name:**  Pre-counseling
+
+  **Methods:**  SVM
+
+  **Functions:**  Take in this set of features, and output the likelihood of testing positive.
+
+  **Evaluation:**  The patient database  can be replaced with a real database  representing real and unique patients. This will give more accurate results  for a given pre-counseling input.
+
+  
+  
++ [2019 UESTC-Software](https://2019.igem.org/Team:UESTC-Software/Model)
+  
+  **Name:**  EC Number Prediction
+  
+  **Methods:**  SVM, kNN
+  
+  **Functions:**  Predict probabilistic EC number and provide synthetic biologists with more help on finding right enzymes.
+  
+  **Evaluation:**  The results of the tests indicated the effectiveness of their prediction tool.
+  
+  
+  
++ [2019 Wageningen UR](https://2019.igem.org/Team:Wageningen_UR/Results/Pathogenicity)
+
+  **Name:**  Determining pathogenicity of the  Xanthomonas Species  
+
+  **Methods:**  Random Forest
+
+  **Functions:**  Find a genetic basis for  non-pathogenicity and select a set of non-pathogens that conform to this  genetic basis.
+
+  **Evaluation:**  The performance of 100 models was combined to estimate the sensitivity and specificity of the model, resulting in an average sensitivity (non-pathogen prediction rate) of 0.90 ± 0.12 and average specificity (pathogen prediction rate) of 0.81 ± 0.11.
 
