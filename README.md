@@ -175,7 +175,7 @@ List of outstanding models about CRISPR system and machine learning in the last 
 
 ### Machine Learning
 
-![](/Users/zhangyumeng/Desktop/wiki页面内容/collection/ML.png)
+![](./ML.png)
 
 
 
